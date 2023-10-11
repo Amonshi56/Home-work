@@ -83,4 +83,3 @@ LEFT JOIN rental r ON i.inventory_id = r.inventory_id
 WHERE rental_id IS NULL;
 ```
 
-Если что решение на это задание есть в презентации на стр 12)))
